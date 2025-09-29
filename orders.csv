@@ -1,0 +1,6 @@
+﻿order_id,order_date,customer_id,channel_id,campaign_id,shipping_usd,discount_usd,status
+1,2025-08-01,1,1,100,10,15,completed
+2,2025-08-02,2,2,,5,0,completed
+3,2025-08-02,3,1,101,7,20,refunded
+4,2025-08-03,1,1,,8,0,cancelled
+5,2025-08-04,2,4,103,12,25,completed

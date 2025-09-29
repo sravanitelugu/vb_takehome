@@ -1,0 +1,7 @@
+order_date	channel_name	net_revenue_usd	orders
+NULL		channel_name	0.0		1
+2025-08-01	Ecommerce	320.0		1
+2025-08-02	Ecommerce	0.0		1
+2025-08-02	Retail		150.0	1
+2025-08-03	Ecommerce	0.0		1
+2025-08-04	Marektplace	95.0		1
